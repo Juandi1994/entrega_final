@@ -9,56 +9,21 @@ Stranger Things
 
 ##Índice
 
+*[Titulo del proyecto](#Título del proyecto)
+
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
 
-*[Insignias](#insignias)
-
 *[Índice](#índice)
-
-        Crud en LAMP - INNOVACOL
-        Persistencia de Sesion PHP - LoginST
-        Clases, objetos, metodos, atributos en JAVA - StrangerThingsJAVA
 
 *[Descripción del proyecto](#descripción-del-proyecto)
 
 *[Estado del proyecto](#Estado-del-proyecto)
 
-El presente proyecto se encuentra en etapa de desarrollo.
-
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-
-A continuacion pueden descargar la maquina virtual, recuerden que deben importarla en virtualbox. La clave de acceso es Politecnico
-
-https://pieduco-my.sharepoint.com/:u:/g/personal/harol_torres_pi_edu_co/EQWT0hl5EJVFlpCmGH3xvc8BblnZehw2bo59Ln26Q4e38w?e=Z7FnRe
 
 *[Acceso al proyecto](#acceso-proyecto)
 
-Las siguientes son las credenciales utilizadas para el proyecto.
-
-Web
-   stranger - Usuario
-   things   - Password
-   
-BD
-  StrangerTHings2 - BD
-  root            - Usuario
-  Colombia2020.   - Password
-  
-
-Linux - Ubuntu
-  adminserver     - Usuarios con privilegios
-  admin123        - Passwd Ubuntu
-  
-
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
-
-El siguiente proyecto se desarrolla desde el paradigma de programacion orientada a objetos. Para el cual se definen: clases, objetos, metodos y atributos. De igual forma se presenta una solucion en un modelo de tres capas desde la integracion de un LAMP. Asi se listan el versionamiento utilizados en este proyecto:
-
-Product Version: Apache NetBeans IDE 14
-Updates: NetBeans IDE is updated to version NetBeans 8.2 Patch 2
-Java: 18.0.2.1; Java HotSpot(TM) 64-Bit Server VM 18.0.2.1+1-1
-Runtime: Java(TM) SE Runtime Environment 18.0.2.1+1-1
-System: Windows 11 version 10.0 running on amd64; UTF-8; es_CO (nb)
 
 *[Personas Contribuyentes](#personas-contribuyentes)
 
@@ -71,7 +36,6 @@ QA Tester                  -
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-Harol Hernan Torres Neuta
 
 * [Licencia](#licencia)
 
@@ -79,4 +43,44 @@ Creative Commons 4.0
 
 *[Conclusión](#conclusión)
 
-El desarrollar aplicaciones desde una vista de programacion orientada a objetos habilita nuevos SKILL en pro de fortalecer conceptos basicos y su puesta en marcha. Adicionalmente la integracion de arquitecturas en un modelo de tres capas permite un performance adecuado y una definicion en una linea base a nivel de transaccionalidad. Esto se resume en el fortalecimiento de conocimientos en desarrollo desde las diferentes tecnologias que se pueden tener.
+
+*[Descripción del proyecto](#descripción-del-proyecto)
+
+ Nuestra propuesta para ejecutar la app de la serie de Stranger things será a través de la metodología ágil en caso scrum. Se ha evidenciado que es una forma efectiva  de trabajo ya que esta totalmente enfocada en dividir las labores en varias partes para terminar el proyecto y obtener muy buenos resultados. 
+En el proyecto está planeado que todos los fanáticos de esta serie puedan encontrar la información, capítulos, reparto, etc, dentro de la misma app. 
+
+
+*[Estado del proyecto](#Estado-del-proyecto)
+
+En desarrollo.
+
+*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+
+URL Video
+
+*[Tecnologías utilizadas](#tecnologías-utilizadas)
+
+En la implementacion de este proyecto, lo estamos trabajando a traves de las metodologias agiles, donde todo nuestro equipo de trabajo cumple y califica perfectamente para cada entrega correspondiente. Estamos creando la aplicacion por medio del lenguaje de Java, aplicando el modelo de vista controlador para tener una mejor interfaz grafica y que sea agradable para nuestro cliente.
+
+*[Personas Contribuyentes](#personas-contribuyentes)
+
+Equipo de desarrollo Agil  
+Desarrollador 1            - Andres Salinas
+Desarrollador 2            - Aura Arteaga
+Product Owner              - Jhon Buitrago
+Scrum Master               - Juan Sebastian Rodriguez
+QA Tester                  - Juan Botero
+
+*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+
+La persona encargada del proyecto es: Juan Diego Botero Rincon.
+
+* [Licencia](#licencia)
+
+![image](https://user-images.githubusercontent.com/96097901/192056936-6fb8b9f5-8978-4c52-b0b7-28ad354d2752.png)
+
+Atribución: Esta licencia permite a otros distribuir, mezclar, ajustar y construir a partir de su obra, incluso con fines comerciales, siempre que le sea reconocida la autoría de la creación original. Esta es la licencia más servicial de las ofrecidas. Recomendada para una máxima difusión y utilización de los materiales sujetos a la licencia.
+
+*[Conclusión](#conclusión)
+
+La herramienta de software implementada en este proyecto de ciclo puede impactar positivamente la manera en que se desarrolla este sitio Web, esto debido a la capacidad de integrar la arquitectura con características diferentes con el fin de aprovechar las funcionalidades tanto en el aspecto de presentación dinámica y amigable al usuario final, como en el aspecto de la eficiencia en el almacenamiento y manejo de contenido. 
